@@ -1,0 +1,3 @@
+- Widgets
+- Customer also bought product details sections
+- Location detection
